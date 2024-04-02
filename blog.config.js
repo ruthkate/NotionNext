@@ -22,7 +22,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Kate Ruth', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '平平无奇CPA小天才', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://kateruth.cn', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://item.taobao.com/item.htm?id=595309514950&spm=a1z10.1-c.w137644-2008452317.26.20f62fe4Fv8xWe&sku_properties=14829532:30856868110', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '专注1对1 定制CPA辅导 ', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
